@@ -48,7 +48,9 @@
 
 ###
 
-<br clear="both">
+<p align="left">I LOVE EATING HAMBURGER AND POTATO EVERY DAY</p>
+
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hoshino7/Hoshino7/output/pacman-contribution-graph-dark.svg">
