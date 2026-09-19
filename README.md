@@ -19,6 +19,10 @@
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Hoshino7/Hoshino7/main/gh-stats.svg" width="100%" alt="Stats Header" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hoshino7&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoshino7&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
