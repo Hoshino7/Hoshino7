@@ -1,16 +1,13 @@
 <p align="center">
-  <img src="./header.svg" width="100%" alt="Header Celestial" />
+  <img src="./header.svg" width="100%" alt="Header" />
 </p>
 
 <p align="center">
-  <img src="./about.svg" width="100%" alt="About Celestial" />
+  <img src="./about.svg" width="100%" alt="About" />
 </p>
 
-
-<br>
-
 <p align="center">
-  <img src="./skills.svg" width="100%" alt="Skills Celestial" />
+  <img src="./skills.svg" width="100%" alt="Skills" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -21,10 +18,8 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-<br>
-
 <p align="center">
-  <img src="./gh-stats.svg" width="100%" alt="Stats Celestial" />
+  <img src="./gh-stats.svg" width="100%" alt="Stats Header" />
 </p>
 
 <p align="center">
@@ -40,8 +35,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoshino7&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
-<br>
-
 <p align="center">
-  <img src="./footer.svg" width="100%" alt="Footer Celestial" />
+  <img src="./footer.svg" width="100%" alt="Footer" />
 </p>
