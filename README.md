@@ -5,14 +5,7 @@
 <p align="center">
   <img src="./about.svg" width="100%" alt="About Celestial" />
 </p>
-<div align="center">
-  <h3>Hi there! 👋 I'm Kinochiwan (Muhammad Putra)</h3>
-  <p>
-    <em>Computer Engineering student & hardware enthusiast based in East Kalimantan.</em><br>
-    When I'm not busy writing C++/Python code or wiring up ESP32 sensors for IoT projects, 
-    you'll probably find me exploring creative tech, drawing, or diving into anime and digital worlds.
-  </p>
-</div>
+
 
 <br>
 
